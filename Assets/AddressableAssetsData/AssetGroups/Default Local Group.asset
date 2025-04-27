@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 1e1a882142d541c478b3ce68b6ac35a3
+  m_SerializeEntries:
+  - m_GUID: 024a54ef410135a489608f6d1a8f7b13
+    m_Address: Assets/Models/Cars/Pininfarina/Pininfarina.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71a048b5df4d3d549a4b41033820cfb3
+    m_Address: Assets/Models/Cars/McLaren Senna/McLaren Senna.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7d558778190f05740818b3f945920c99, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3e5859586bdf6ab4d95e545028d7ce2d, type: 2}
+    - {fileID: 11400000, guid: f2171c9195b0ba549b39f809ca19083d, type: 2}

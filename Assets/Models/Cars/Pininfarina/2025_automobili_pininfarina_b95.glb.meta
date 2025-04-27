@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 068589fb9dd503f4bb5ef0cbf3d7b2e7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color_2
+    second: {fileID: 2100000, guid: 967a6bfaa6433fb489ec341e8a4235b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025BadgeA_Material1
+    second: {fileID: 2100000, guid: 056c4401763a5644f996720b78a1ae51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025Base_Material1
+    second: {fileID: 2100000, guid: bd715ce7f61cdc24199b6ebb79efc264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025Carbon1_Material1
+    second: {fileID: 2100000, guid: e1390ac7c7a32464ca761e4f1ba8ff38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025Coloured_Material1
+    second: {fileID: 2100000, guid: 356d7b1723edd844bb9e65bfaaa6fecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025GrilleAlpha1A_Material1
+    second: {fileID: 2100000, guid: e75473fc04ca61d49b0d6e55720080f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025GrilleNoAlpha2A_Material1
+    second: {fileID: 2100000, guid: ff0039fca89aa714aaa0e6adb61851d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025GrilleNoAlpha3A_Material1
+    second: {fileID: 2100000, guid: 5e005d274dabba346883d4da416afdce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025InteriorA_Material1
+    second: {fileID: 2100000, guid: ef3618062eddd21478037a4d675b9d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025InteriorTillingA_Material1
+    second: {fileID: 2100000, guid: 6c54e70f1c36748449a9f0f96c5a088c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025LightA_Material1
+    second: {fileID: 2100000, guid: 2904fdc1ac2a67442a906d6409fa3b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025ManufacturerPlateA_Material1
+    second: {fileID: 2100000, guid: 4bdb44628766055419d197affd1824a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025Paint_Material1
+    second: {fileID: 2100000, guid: 55ce444a3192f754396bc13fac2875f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025TexturedA_Material1
+    second: {fileID: 2100000, guid: e28739907a799b945974dd3ae6875f47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025Window_Material1
+    second: {fileID: 2100000, guid: a6555b43c900b804bb1205edc6bd2d82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025_CallipersCalliperA_Zone_Material1
+    second: {fileID: 2100000, guid: 8ad2024f92b489344b5e7324b12439da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025_CallipersCalliperBadgeA_Material1
+    second: {fileID: 2100000, guid: 25d010cda9a30e540881287aeaafcc69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPininfarina_B95_2025_Wheel1A_3D_3DWheel1A_Material1
+    second: {fileID: 2100000, guid: 6d995512bf0df414eb903264d42e2ea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: be4796f7cd5f78f43af1935a2755e578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_glass
+    second: {fileID: 2100000, guid: 69c0668f7f582f044b6abfed476e5491, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: 5979de0c2e1b75f4fbdaac7188063f79, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_1
+    second: {fileID: 2800000, guid: 880dd5e998e187a4a8d6fb7687743b6a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_10
+    second: {fileID: 2800000, guid: 7bc7ee2938cf05c499dc9bf72cb9a6c6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_11.standard
+    second: {fileID: 2800000, guid: 6222325d6ba98134dad55dcb45c33fa7, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_12
+    second: {fileID: 2800000, guid: 0f4d724f47a8b27429267c48c49b9fd6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_13.normal
+    second: {fileID: 2800000, guid: 158f5e8f769eac244a4c87e86aa4a959, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_14
+    second: {fileID: 2800000, guid: 9019fea9bd854ca4d92318187df17d5f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_15.normal
+    second: {fileID: 2800000, guid: c2d997b50eed17a4b854ccd4016123d5, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_16
+    second: {fileID: 2800000, guid: fe7a219ac1bdbb145a6054830ab1641b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_17.normal
+    second: {fileID: 2800000, guid: 4dc3d856f9045a148be49d3797b6f9d6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_18
+    second: {fileID: 2800000, guid: f6e3bcd7bac8a884085097f334383f55, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_19.normal
+    second: {fileID: 2800000, guid: 29592f8b1ae25394385b1e3c2c0172d0, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_2.standard
+    second: {fileID: 2800000, guid: f9b56af91c2f95d4f95163e1797624ad, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_20
+    second: {fileID: 2800000, guid: db5d1874319442a448300684942c21f0, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_21.normal
+    second: {fileID: 2800000, guid: 534dbf30deec6714f96b6fb910d4ecec, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_22
+    second: {fileID: 2800000, guid: 161a136222b29474ca6deb334f18c022, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_23.standard
+    second: {fileID: 2800000, guid: b25d5ce42be95b642b08593050facf45, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_24
+    second: {fileID: 2800000, guid: c514183490aa03443969ad72676e6af3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_25
+    second: {fileID: 2800000, guid: 88458498f01b02d4da113dc9ebbae58e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_26
+    second: {fileID: 2800000, guid: 8720d71cd725aef469cd386a64d92862, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_27
+    second: {fileID: 2800000, guid: 34ba2159a28d9be4187b936588eb750c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_3
+    second: {fileID: 2800000, guid: d5fddd03e44d40843bc1bc1a32dd9e88, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_4.standard
+    second: {fileID: 2800000, guid: e16e65b2c5a2d204ca0fd33f0a8928c3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_5.normal
+    second: {fileID: 2800000, guid: e7266962dc8e948469b4100c4376e504, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_6
+    second: {fileID: 2800000, guid: 0b669988210e11d4a9d53e4794ae325d, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_7.normal
+    second: {fileID: 2800000, guid: a617c22ed45c57f418ad80b40543e4d8, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_8
+    second: {fileID: 2800000, guid: 3182e3c5be2cba3459020d071e5679e1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_9.normal
+    second: {fileID: 2800000, guid: 85fe1b3b22ccf2e45a5aa54641ea5023, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
